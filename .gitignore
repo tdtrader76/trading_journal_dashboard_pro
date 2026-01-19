@@ -1,5 +1,21 @@
-__pycache__/
+# Entornos
 .venv/
+venv/
+
+# Python
+__pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# IDEs
+.idea/
+.vscode/
+
+# OS
 .DS_Store
-.streamlit/
+Thumbs.db
+
+# Streamlit (solo secrets)
+.streamlit/secrets.toml

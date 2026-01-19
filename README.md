@@ -21,7 +21,7 @@ streamlit run app/main.py
 ```
 
 ## 📥 Export recomendado en NinjaTrader
-Performance → Trades → Grid → Save As → CSV
+Performance → Trades → Click Derecho → Export → Guardar como CSV
 
 ## Notas
 - Incluye parsing robusto de moneda tipo es-CO (`$ 1.234,56`, `- 2,90`, etc.)
